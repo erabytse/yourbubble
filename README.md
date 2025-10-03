@@ -21,6 +21,9 @@ Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against
 If you use and value this tool, consider supporting its development:  
 [![Sponsor](https://img.shields.io/badge/sponsor-erabytse-181717?logo=github)](https://github.com/sponsors/takouzlo)
 
+📜 License
+MIT — but used with intention.
+
 ## 🚀 Quick Start
 
 ### Install
@@ -40,7 +43,6 @@ yourbubble send 192.168.1.10 8080 "This will vanish" --ttl 30
 
 🔑 The shared secret is never transmitted. It must be exchanged securely (e.g., in person, via QR, etc.). 
 
-📜 License
-MIT — but used with intention.
+
 
 
