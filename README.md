@@ -18,6 +18,7 @@
 ## 🚀 Quick Start
 
 ### Install
+
 ```bash'''
 pip install yourbubble
 
