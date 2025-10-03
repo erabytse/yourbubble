@@ -15,6 +15,12 @@
 - 📡 **UDP-based**: no persistent connection, no metadata  
 - 💬 **CLI-first**: simple, scriptable, human
 
+Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital permanence.
+
+## 💙 Support
+If you use and value this tool, consider supporting its development:  
+[![Sponsor](https://img.shields.io/badge/sponsor-erabytse-181717?logo=github)](https://github.com/sponsors/takouzlo)
+
 ## 🚀 Quick Start
 
 ### Install
@@ -37,8 +43,4 @@ yourbubble send 192.168.1.10 8080 "This will vanish" --ttl 30
 📜 License
 MIT — but used with intention.
 
-Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital permanence.
 
-## 💙 Support
-If you use and value this tool, consider supporting its development:  
-[![Sponsor](https://img.shields.io/badge/sponsor-erabytse-181717?logo=github)](https://github.com/sponsors/takouzlo)
