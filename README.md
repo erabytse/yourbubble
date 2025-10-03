@@ -36,4 +36,4 @@ yourbubble send 192.168.1.10 8080 "This will vanish" --ttl 30
 📜 License
 MIT — but used with intention.
 
-Part of a quiet rebellion against digital permanence.
+Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital permanence.
